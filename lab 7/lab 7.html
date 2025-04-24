@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>GPA Calculator</title>
+</head>
+<body>
+
+<h2>GPA Calculator</h2>
+<label>Enter marks (out of 100):</label>
+<input type="number" id="marks">
+<button onclick="calculateGPA()">Calculate GPA</button>
+<p id="result"></p>
+
+<script>
+    function calculateGPA() {
+        let marks = parseFloat(document.getElementById("marks").value);
+        let gpa;
+
+        if (marks >= 85) gpa = 4.0;
+        else if (marks >= 75) gpa = 3.5;
+        else if (marks >= 65) gpa = 3.0;
+        else if (marks >= 55) gpa = 2.5;
+        else if (marks >= 45) gpa = 2.0;
+        else gpa = 0.0;
+
+        document.getElementById("result").innerText = "Your GPA is: " + gpa;
+    }
+</script>
+
+</body>
+</html>
