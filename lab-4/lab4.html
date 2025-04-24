@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Signup Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+        }
+        form {
+            max-width: 300px;
+            margin-bottom: 1rem;
+        }
+        label {
+            display: block;
+            margin-top: 1rem;
+        }
+        input[type="text"], input[type="password"] {
+            width: 100%;
+            padding: 0.5rem;
+            margin-top: 0.25rem;
+            box-sizing: border-box;
+        }
+        button {
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+        }
+        #displayCredentials {
+            margin-top: 2rem;
+            padding: 1rem;
+            border: 1px solid #ccc;
+            max-width: 300px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Signup</h1>
+    <form id="signupForm">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required />
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required />
+
+        <button type="submit">Sign Up</button>
+    </form>
+
+    <div id="displayCredentials" style="display:none;">
+        <h2>Entered Credentials</h2>
+        <p><strong>Username:</strong> <span id="showUsername"></span></p>
+        <p><strong>Password:</strong> <span id="showPassword"></span></p>
+    </div>
+
+    <script>
+        const form = document.getElementById('signupForm');
+        const displayDiv = document.getElementById('displayCredentials');
+        const showUsername = document.getElementById('showUsername');
+        const showPassword = document.getElementById('showPassword');
+
+        form.addEventListener('submit', function(event) {
+            event.preventDefault(); // Prevent form from submitting normally
+
+            const username = form.username.value;
+            const password = form.password.value;
+
+            // Display the entered credentials
+            showUsername.textContent = username;
+            showPassword.textContent = password;
+
+            // Hide the form and show the credentials
+            form.style.display = 'none';
+            displayDiv.style.display = 'block';
+        });
+    </script>
+</body>
+</html>
