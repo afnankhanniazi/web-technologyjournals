@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Form Validation</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<form id="myForm" onsubmit="return actionMethod()">
+  <h2>Registration Form</h2>
+
+  <div class="inputGroup">
+    <input type="text" id="name" placeholder="Name" />
+    <span id="nameError"></span>
+  </div>
+
+  <div class="inputGroup">
+    <input type="email" id="email" placeholder="Email (@bahria.edu.pk)" />
+    <span id="emailError"></span>
+  </div>
+
+  <div class="inputGroup">
+    <input type="password" id="password" placeholder="Password" />
+    <span id="passwordError"></span>
+  </div>
+
+  <div class="inputGroup">
+    <input type="text" id="phone" placeholder="Phone (10 digits)" />
+    <span id="phoneError"></span>
+  </div>
+
+  <button type="submit">Submit</button>
+</form>
+
+<script src="script.js"></script>
+
+</body>
+</html>
