@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Simple Portfolio</title>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Slick CSS and JS -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+    <!-- Lightbox CSS and JS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .slider { width: 50%; margin: auto; }
+        .slider img { width: 100%; height: auto; }
+        .gallery img { width: 200px; margin: 10px; }
+    </style>
+</head>
+<body>
+
+<h1>Welcome to My Portfolio</h1>
+
+<h2>My Projects Slider</h2>
+<div class="slider">
+    <div><img src="https://via.placeholder.com/400x300?text=Project+1" alt="Project 1"></div>
+    <div><img src="https://via.placeholder.com/400x300?text=Project+2" alt="Project 2"></div>
+    <div><img src="https://via.placeholder.com/400x300?text=Project+3" alt="Project 3"></div>
+</div>
+
+<h2>Gallery (Click to enlarge)</h2>
+<div class="gallery">
+    <a href="https://via.placeholder.com/800x600?text=Photo+1" data-lightbox="gallery"><img src="https://via.placeholder.com/200x150?text=Photo+1"></a>
+    <a href="https://via.placeholder.com/800x600?text=Photo+2" data-lightbox="gallery"><img src="https://via.placeholder.com/200x150?text=Photo+2"></a>
+    <a href="https://via.placeholder.com/800x600?text=Photo+3" data-lightbox="gallery"><img src="https://via.placeholder.com/200x150?text=Photo+3"></a>
+</div>
+
+<script>
+$(document).ready(function(){
+    $('.slider').slick({
+        dots: true,
+        autoplay: true,
+        autoplaySpeed: 2000,
+    });
+});
+</script>
+
+</body>
+</html>
