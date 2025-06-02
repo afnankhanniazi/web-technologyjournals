@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BU UNIVERSITY\\Github\\web\u0026technology\\web-technologyjournals\\FeedbackSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__BU_UNIVERSITY_GITHUB_WEB_TECHNOLOGY_WEB_TECHNOLOGYJOURNALS_FEEDBACKSYSTEM_FEEDBACKSYSTEM_APP_DATA_AFNAN_FEEDBACK.MDF/True/SqlTable/dbo.Table.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\sxmqlyhw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\sffufp05..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871DD1-9FC1-4C0E-9579-A61481839286}|FeedbackSystem\\FeedbackSystem.csproj|d:\\bu university\\github\\web\u0026technology\\web-technologyjournals\\feedbacksystem\\feedbacksystem\\addfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D871DD1-9FC1-4C0E-9579-A61481839286}|FeedbackSystem\\FeedbackSystem.csproj|solutionrelative:feedbacksystem\\addfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871DD1-9FC1-4C0E-9579-A61481839286}|FeedbackSystem\\FeedbackSystem.csproj|d:\\bu university\\github\\web\u0026technology\\web-technologyjournals\\feedbacksystem\\feedbacksystem\\viewfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D871DD1-9FC1-4C0E-9579-A61481839286}|FeedbackSystem\\FeedbackSystem.csproj|solutionrelative:feedbacksystem\\viewfeedback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871DD1-9FC1-4C0E-9579-A61481839286}|FeedbackSystem\\FeedbackSystem.csproj|d:\\bu university\\github\\web\u0026technology\\web-technologyjournals\\feedbacksystem\\feedbacksystem\\viewfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6D871DD1-9FC1-4C0E-9579-A61481839286}|FeedbackSystem\\FeedbackSystem.csproj|solutionrelative:feedbacksystem\\viewfeedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D871DD1-9FC1-4C0E-9579-A61481839286}|FeedbackSystem\\FeedbackSystem.csproj|d:\\bu university\\github\\web\u0026technology\\web-technologyjournals\\feedbacksystem\\feedbacksystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D871DD1-9FC1-4C0E-9579-A61481839286}|FeedbackSystem\\FeedbackSystem.csproj|solutionrelative:feedbacksystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\sffufp05..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\sffufp05..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\sxmqlyhw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\AppData\\Local\\Temp\\sxmqlyhw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\sxmqlyhw..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-02T05:58:58.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\hp\\AppData\\Local\\Temp\\sffufp05..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-02T05:57:40.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddFeedback.aspx",
+              "DocumentMoniker": "D:\\BU UNIVERSITY\\Github\\web\u0026technology\\web-technologyjournals\\FeedbackSystem\\FeedbackSystem\\AddFeedback.aspx",
+              "RelativeDocumentMoniker": "FeedbackSystem\\AddFeedback.aspx",
+              "ToolTip": "D:\\BU UNIVERSITY\\Github\\web\u0026technology\\web-technologyjournals\\FeedbackSystem\\FeedbackSystem\\AddFeedback.aspx",
+              "RelativeToolTip": "FeedbackSystem\\AddFeedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-02T05:55:23.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Table [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__BU_UNIVERSITY_GITHUB_WEB_TECHNOLOGY_WEB_TECHNOLOGYJOURNALS_FEEDBACKSYSTEM_FEEDBACKSYSTEM_APP_DATA_AFNAN_FEEDBACK.MDF/True/SqlTable/dbo.Table.sql",
+              "ToolTip": "dbo.Table [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-02T05:54:27.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewFeedback.aspx.cs",
+              "DocumentMoniker": "D:\\BU UNIVERSITY\\Github\\web\u0026technology\\web-technologyjournals\\FeedbackSystem\\FeedbackSystem\\ViewFeedback.aspx.cs",
+              "RelativeDocumentMoniker": "FeedbackSystem\\ViewFeedback.aspx.cs",
+              "ToolTip": "D:\\BU UNIVERSITY\\Github\\web\u0026technology\\web-technologyjournals\\FeedbackSystem\\FeedbackSystem\\ViewFeedback.aspx.cs",
+              "RelativeToolTip": "FeedbackSystem\\ViewFeedback.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:20:20.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewFeedback.aspx",
+              "DocumentMoniker": "D:\\BU UNIVERSITY\\Github\\web\u0026technology\\web-technologyjournals\\FeedbackSystem\\FeedbackSystem\\ViewFeedback.aspx",
+              "RelativeDocumentMoniker": "FeedbackSystem\\ViewFeedback.aspx",
+              "ToolTip": "D:\\BU UNIVERSITY\\Github\\web\u0026technology\\web-technologyjournals\\FeedbackSystem\\FeedbackSystem\\ViewFeedback.aspx",
+              "RelativeToolTip": "FeedbackSystem\\ViewFeedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-02T05:18:31.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\BU UNIVERSITY\\Github\\web\u0026technology\\web-technologyjournals\\FeedbackSystem\\FeedbackSystem\\Web.config",
+              "RelativeDocumentMoniker": "FeedbackSystem\\Web.config",
+              "ToolTip": "D:\\BU UNIVERSITY\\Github\\web\u0026technology\\web-technologyjournals\\FeedbackSystem\\FeedbackSystem\\Web.config",
+              "RelativeToolTip": "FeedbackSystem\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-02T04:18:32.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
